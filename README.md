@@ -8,4 +8,6 @@ Name File => face_recognition.ipynb
 
 Name File Model => face.xml
 
+Description Of face.xml File => This File Is The Desired Ready File To Recognize The Person's Face In The Image
+
 # Finish
